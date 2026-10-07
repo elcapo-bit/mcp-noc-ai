@@ -1,0 +1,9 @@
+{
+  "nodes": ["R1", "R2", "R3", "SW1", "SW2"],
+  "links": [
+    {"source": "R1", "target": "R2", "type": "fiber"},
+    {"source": "R2", "target": "R3", "type": "fiber"},
+    {"source": "R1", "target": "SW1", "type": "ethernet"},
+    {"source": "R2", "target": "SW2", "type": "ethernet"}
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  {"timestamp": "2026-09-15T10:00:12", "device": "R1", "message": "%LINK-3-UPDOWN: Interface GigabitEthernet0/1, changed state to down"},
+  {"timestamp": "2026-09-15T10:00:14", "device": "R2", "message": "%BGP-5-ADJCHANGE: neighbor 10.0.0.1 Down BGP Notification sent"},
+  {"timestamp": "2026-09-15T10:00:20", "device": "SW1", "message": "%LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan1, changed state to down"},
+  {"timestamp": "2026-09-15T09:40:00", "device": "R3", "message": "%SYS-5-CONFIG_I: Configured from console by admin"}
+]

@@ -1,0 +1,5 @@
+[
+  {"timestamp": "2026-09-15T10:00:15", "device": "R1", "severity": "critical", "message": "Interface GigabitEthernet0/1 down"},
+  {"timestamp": "2026-09-15T10:00:18", "device": "R2", "severity": "major", "message": "BGP peer 10.0.0.1 state changed to Idle"},
+  {"timestamp": "2026-09-15T09:41:00", "device": "R3", "severity": "info", "message": "Configuration change detected"}
+]

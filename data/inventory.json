@@ -1,0 +1,9 @@
+{
+  "devices": [
+    {"name": "R1", "role": "router", "vendor": "FRRouting", "mgmt_ip": "10.0.0.1"},
+    {"name": "R2", "role": "router", "vendor": "FRRouting", "mgmt_ip": "10.0.0.2"},
+    {"name": "R3", "role": "router", "vendor": "FRRouting", "mgmt_ip": "10.0.0.3"},
+    {"name": "SW1", "role": "switch", "vendor": "SR Linux", "mgmt_ip": "10.0.0.11"},
+    {"name": "SW2", "role": "switch", "vendor": "SR Linux", "mgmt_ip": "10.0.0.12"}
+  ]
+}
